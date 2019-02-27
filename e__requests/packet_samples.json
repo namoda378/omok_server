@@ -1,0 +1,35 @@
+[
+{
+	"reqname":"signup",
+	"status":"success"
+},
+{
+	"reqname":"purchase",
+	"":"",
+	"inven":"success"
+},
+{
+	"reqname":"t3",
+	"":"",
+	"inven":"success"
+},
+{
+	"reqname":"ranking",
+	"":"",
+	"inven":"success"
+},
+{
+	"reqtypes":["model","t3_victories",],
+	"inven":"success"
+},
+{
+	"reqtypes":["putstone"],
+	"t3"
+
+	"inven":"success"
+},{
+	"reqtypes":["purchase","randomUTF8"],
+	"inven":"success"
+},
+
+]

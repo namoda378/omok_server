@@ -1,0 +1,6 @@
+
+
+
+process order : 
+	"validation>putStone>(t3_model|user_rankings|t3_victories)"
+	"validation>purchase>inven_model"
